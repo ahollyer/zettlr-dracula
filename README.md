@@ -8,7 +8,7 @@ This was a quick-and-dirty solution to add my favorite theme to Zettlr. I'm in t
 
 [Zettlr](https://www.zettlr.com/) is a free, open-source markdown editor specifically geared toward creating [Zettelkasten](https://zettelkasten.de/).
 
-[Dracula](https://draculatheme.com/) is a free dark theme for a text editors, terminals, and various apps.
+[Dracula](https://draculatheme.com/) is a free dark theme for text editors, terminals, and various apps.
 
 ## How to Use
 Here you go, 4 easy steps:
