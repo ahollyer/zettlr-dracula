@@ -1,0 +1,65 @@
+/* Main */
+body.dark #editor,
+body.dark #file-tree,
+body.dark #toolbar {
+  background-color: #282a36;
+  color: #f8f8f2;
+}
+
+body.dark #file-manager #file-manager-resize {
+  background-color: #44475a;
+}
+
+body #editor .CodeMirror,
+body .quicklook .body .CodeMirror,
+body .dialog .CodeMirror {
+  color: #f8f8f2 !important;
+}
+
+/* Headers */
+.size-header-1,
+.size-header-2,
+.size-header-3,
+.size-header-4,
+.size-header-5,
+.size-header-6,
+.cm-formatting-header {
+  color: #BD93F9 !important;
+}
+
+/* Italic */
+#editor .cm-em {
+  color: #F1FA8C !important;
+}
+
+/* Bold */
+#editor .cm-strong {
+  color: #FFB86C !important;
+}
+
+/* Lists */
+#editor .cm-formatting-list-ul,
+#editor .cm-formatting-list-ol {
+    color: #8BE9FD !important;
+}
+
+/* Inline Code */
+#editor .cm-comment {
+  color: #50FA7B !important;
+}
+
+/* Links */
+#editor .cm-url {
+  color: #8be9fd !important;
+}
+#editor .cm-link,
+#editor .cma,
+#editor .cm-zkn-link {
+  color: #ff79c6 !important;
+}
+
+/* Blockquotes */
+#editor .cm-formatting-quote,
+#editor .cm-quote {
+  color: #f1fa8c !important;
+}
