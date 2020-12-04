@@ -31,7 +31,7 @@ If you like a monospace font, go to the __Theme__ tab and pick "Bordeaux":
 
 ---
 
-Now, open the Custom CSS tool, and copy the contents of zettlr-dracula-theme.css and paste them into the Custom CSS window.
+Now, open the Custom CSS tool, and copy the contents of [zettlr-dracula-theme.css](zettlr-dracula-theme.css) and paste them into the Custom CSS window.
 
 ![](img/custom-css.png)
 
